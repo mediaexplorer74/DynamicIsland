@@ -11,8 +11,8 @@ Long story in short: the idea for this application originally came to me when I 
 ## Tech. details
 - I hope it compatible with Windows 11 Tiny (some os mods, with many, many cutted things)
 - Target Framework: .NET 8.0
-- Used workbench: Visual Studio 2022 Preview vith all updates (2025)
-- Target OS version: 10.0.19041.0 (so, win 10 is good choise)
+- Used workbench: Visual Studio 2022 Preview with all updates (2025)
+- Target OS version: 10.0.19041.0 (so, win 10 is good choice!)
 - Minimal supported OS version: 10.0.17763.0 (hello, old sweet Win10-based poor notebooks))))
 
 ## FAQ
